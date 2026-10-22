@@ -22,7 +22,6 @@ AI stuff:
 - bot-factory - RAG chatbot framework on AWS serverless
 - expense-agent - point it at a folder of receipts, get a filled-out spreadsheet
 - talk-to-me-claude - voice chat with Claude Code (Transcribe, Bedrock, Polly)
-- fhir-forge - learn FHIR by playing through missions
 - [career-ops](https://github.com/mr-flowjangles/career-ops) - job search system built on Claude Code
 
 Smaller tools:
